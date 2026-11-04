@@ -155,7 +155,7 @@ window.PORTFOLIO = {
           "duration": "01:05",
           "poster": "assets/dodane/mw2cgtl8-MMD-gGYv8Uw_576.00_01_55_04.Still016.png",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/LMH.mp4"
         }
       ]
     },
@@ -181,7 +181,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2ch1c2-MMD-gGYv8Uw_576.00_02_20_01.Still017.png",
           "ratio": "16/9",
           "duration": "",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/Piggy Grinder  Przenośny sterownik polersko-szlifierski.mp4"
         }
       ]
     },
@@ -207,7 +207,7 @@ window.PORTFOLIO = {
           "duration": "00:59",
           "poster": "assets/dodane/mw2ch5wj-MMD-gGYv8Uw_576.00_04_11_28.Still018.png",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/PW.mp4"
         }
       ]
     },
@@ -233,7 +233,7 @@ window.PORTFOLIO = {
           "duration": "00:15",
           "poster": "assets/dodane/mw2ciur1-MMD-gGYv8Uw_576.00_04_41_24.Still019.png",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/bmw.mp4"
         }
       ]
     },
@@ -259,7 +259,7 @@ window.PORTFOLIO = {
           "duration": "00:29",
           "poster": "assets/dodane/mw2ciyjm-MMD-gGYv8Uw_576.00_04_53_13.Still020.png",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/czcvc.mp4"
         }
       ]
     },
@@ -285,7 +285,7 @@ window.PORTFOLIO = {
           "duration": "00:20",
           "poster": "assets/dodane/mw2cj2rh-MMD-gGYv8Uw_576.00_05_40_10.Still021.png",
           "ratio": "9/16",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/C2gY53yzMg3_576.mp4"
         }
       ]
     },
@@ -311,7 +311,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cj7u2-MMD-gGYv8Uw_576.00_05_42_11.Still022.png",
           "ratio": "9/16",
           "duration": "0:32",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/strzyzenie.mp4"
         }
       ]
     },
@@ -334,9 +334,9 @@ window.PORTFOLIO = {
         {
           "title": "klip promocyjny",
           "poster": "assets/dodane/mw2egbdd-MMD-gGYv8Uw_576.00_08_38_07.Still027.png",
-          "ratio": "16/9",
+          "ratio": "9/16",
           "duration": "00:29",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/reklama.mp4"
         }
       ]
     },
@@ -362,7 +362,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjc3f-MMD-gGYv8Uw_576.00_06_28_18.Still023.png",
           "ratio": "9/16",
           "duration": "0:42",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/500vs5000.mp4"
         }
       ]
     },
@@ -388,7 +388,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjgbt-MMD-gGYv8Uw_576.00_06_55_01.Still024.png",
           "ratio": "9/16",
           "duration": "0:32",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/pizza.mp4"
         }
       ]
     },
@@ -414,7 +414,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjkhl-MMD-gGYv8Uw_576.00_07_32_22.Still025.png",
           "ratio": "9/16",
           "duration": "00:17",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/Case study.mp4"
         }
       ]
     },
@@ -439,7 +439,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjobm-MMD-gGYv8Uw_576.00_07_45_03.Still026.png",
           "ratio": "9/16",
           "duration": "00:09",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/dodane/Speedramps.mp4"
         }
       ]
     },
@@ -672,7 +672,7 @@ window.PORTFOLIO = {
           "duration": "00:05",
           "poster": "assets/logo-laserpoint.jpg",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/logo-laserpoint.mp4"
         }
       ]
     },
@@ -697,28 +697,28 @@ window.PORTFOLIO = {
           "duration": "00:12",
           "poster": "assets/logo-opengrain-kontur.jpg",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/logo-opengrain-2d.mp4"
         },
         {
           "title": "Wersja 2",
           "duration": "00:06",
           "poster": "assets/logo-opengrain-demo.jpg",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/logo-opengrain-demo.mp4"
         },
         {
           "title": "Wersja 3",
           "duration": "00:05",
           "poster": "assets/logo-opengrain-swiatlo.jpg",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/logo-opengrain-kontur.mp4"
         },
         {
           "title": "Wersja 4",
           "duration": "00:06",
           "poster": "assets/logo-opengrain-2d.jpg",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/logo-opengrain-swiatlo.mp4"
         }
       ]
     },
@@ -743,7 +743,7 @@ window.PORTFOLIO = {
           "duration": "00:06",
           "poster": "assets/logo-sumaris.jpg",
           "ratio": "16/9",
-          "src": "assets/dodane/rfid.mp4"
+          "src": "assets/logo-sumaris.mp4"
         }
       ]
     }
@@ -754,12 +754,11 @@ window.PORTFOLIO = {
     "label": "WOJCIECH BOBEK",
     "description": "Kilka słów o mnie, moich filmach i tym, co lubię w pracy z obrazem.",
     "role": "Realizacja · montaż · animacje",
-    "source": "https://www.youtube.com/watch?v=2eG3R1fXt6g",
+    "src": "assets/dodane/Cześć.mp4",
     "videos": [
       {
         "title": "O mnie — wideo CV",
-        "embed": "https://drive.google.com/file/d/19u7lqAQysxcmuouCzC7XAFM7eLzNguKx/preview",
-        "external": "https://drive.google.com/file/d/19u7lqAQysxcmuouCzC7XAFM7eLzNguKx/view",
+        "src": "assets/dodane/Cześć.mp4"
         "poster": "assets/about-video.jpg",
         "ratio": "16/9"
       }
