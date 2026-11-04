@@ -758,7 +758,7 @@ window.PORTFOLIO = {
     "videos": [
       {
         "title": "O mnie — wideo CV",
-        "src": "assets/dodane/Cześć.mp4"
+        "src": "assets/dodane/Cześć.mp4",
         "poster": "assets/about-video.jpg",
         "ratio": "16/9"
       }
