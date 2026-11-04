@@ -103,8 +103,7 @@ window.PORTFOLIO = {
           "duration": "00:14",
           "poster": "assets/dodane/mw2cghz1-MMD-gGYv8Uw_576.00_00_06_26.Still014.png",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1mmYQYH0rG4lfO_HNBcv8DVfjNIWuYlHH/preview",
-          "external": "https://drive.google.com/file/d/1mmYQYH0rG4lfO_HNBcv8DVfjNIWuYlHH/view"
+          "src": "assets/dodane/MMD-gGYv8Uw_576.mp4"
         }
       ]
     },
@@ -130,8 +129,7 @@ window.PORTFOLIO = {
           "duration": "00:48",
           "poster": "assets/dodane/mw2cgoo9-MMD-gGYv8Uw_576.00_00_46_02.Still015.png",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1Y5zpGbJjSYHzQ5PNyZ8U55Mifg2lV8kl/preview",
-          "external": "https://drive.google.com/file/d/1Y5zpGbJjSYHzQ5PNyZ8U55Mifg2lV8kl/view"
+          "src": "assets/dodane/rfid.mp4"
         }
       ]
     },
@@ -157,8 +155,7 @@ window.PORTFOLIO = {
           "duration": "01:05",
           "poster": "assets/dodane/mw2cgtl8-MMD-gGYv8Uw_576.00_01_55_04.Still016.png",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/11-iq-R_qdPWUbZSyrPYCevaRaPndxNTC/preview",
-          "external": "https://drive.google.com/file/d/11-iq-R_qdPWUbZSyrPYCevaRaPndxNTC/view"
+          "src": "assets/dodane/LMH.mp4"
         }
       ]
     },
@@ -184,8 +181,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2ch1c2-MMD-gGYv8Uw_576.00_02_20_01.Still017.png",
           "ratio": "16/9",
           "duration": "",
-          "embed": "https://drive.google.com/file/d/1PpJ8nn-qa1jkwyDVeG9zidazLJaz3WtX/preview",
-          "external": "https://drive.google.com/file/d/1PpJ8nn-qa1jkwyDVeG9zidazLJaz3WtX/view"
+          "src": "assets/dodane/Piggy Grinder  Przenośny sterownik polersko-szlifierski.mp4"
         }
       ]
     },
@@ -211,8 +207,7 @@ window.PORTFOLIO = {
           "duration": "00:59",
           "poster": "assets/dodane/mw2ch5wj-MMD-gGYv8Uw_576.00_04_11_28.Still018.png",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1JSDLsNzd3hm8FwEKz55eOsCSH1gdLgmm/preview",
-          "external": "https://drive.google.com/file/d/1JSDLsNzd3hm8FwEKz55eOsCSH1gdLgmm/view"
+          "src": "assets/dodane/PW.mp4"
         }
       ]
     },
@@ -238,8 +233,7 @@ window.PORTFOLIO = {
           "duration": "00:15",
           "poster": "assets/dodane/mw2ciur1-MMD-gGYv8Uw_576.00_04_41_24.Still019.png",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1ESDLdmFwoiFieTtbRe48tCgIIWh5mfWs/preview",
-          "external": "https://drive.google.com/file/d/1ESDLdmFwoiFieTtbRe48tCgIIWh5mfWs/view"
+          "src": "assets/dodane/bmw.mp4"
         }
       ]
     },
@@ -265,8 +259,7 @@ window.PORTFOLIO = {
           "duration": "00:29",
           "poster": "assets/dodane/mw2ciyjm-MMD-gGYv8Uw_576.00_04_53_13.Still020.png",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/144ZHhNu4rF-4rSn-B3ooWfrvhI65_4_c/preview",
-          "external": "https://drive.google.com/file/d/144ZHhNu4rF-4rSn-B3ooWfrvhI65_4_c/view"
+          "src": "assets/dodane/czcvc.mp4"
         }
       ]
     },
@@ -292,8 +285,7 @@ window.PORTFOLIO = {
           "duration": "00:20",
           "poster": "assets/dodane/mw2cj2rh-MMD-gGYv8Uw_576.00_05_40_10.Still021.png",
           "ratio": "9/16",
-          "embed": "https://drive.google.com/file/d/19sOFEYGSm8AT87KYglyfqP2EE_8dFTw9/preview",
-          "external": "https://drive.google.com/file/d/19sOFEYGSm8AT87KYglyfqP2EE_8dFTw9/view"
+          "src": "assets/dodane/C2gY53yzMg3_576.mp4"
         }
       ]
     },
@@ -319,8 +311,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cj7u2-MMD-gGYv8Uw_576.00_05_42_11.Still022.png",
           "ratio": "9/16",
           "duration": "0:32",
-          "embed": "https://drive.google.com/file/d/1KXbVESRLeVKWwfwzSJx-d44ofYRn2LCs/preview",
-          "external": "https://drive.google.com/file/d/1KXbVESRLeVKWwfwzSJx-d44ofYRn2LCs/view"
+          "src": "assets/dodane/strzyzenie.mp4"
         }
       ]
     },
@@ -343,10 +334,9 @@ window.PORTFOLIO = {
         {
           "title": "klip promocyjny",
           "poster": "assets/dodane/mw2egbdd-MMD-gGYv8Uw_576.00_08_38_07.Still027.png",
-          "ratio": "16/9",
+          "ratio": "9/16",
           "duration": "00:29",
-          "embed": "https://drive.google.com/file/d/1pGZC7JwJOGD0E_aGjdgDM0ct_dlm6x5x/preview",
-          "external": "https://drive.google.com/file/d/1pGZC7JwJOGD0E_aGjdgDM0ct_dlm6x5x/view"
+          "src": "assets/dodane/reklama.mp4"
         }
       ]
     },
@@ -372,8 +362,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjc3f-MMD-gGYv8Uw_576.00_06_28_18.Still023.png",
           "ratio": "9/16",
           "duration": "0:42",
-          "embed": "https://drive.google.com/file/d/1D38dc21VxGtp8Ay4D_uOWtrA3DgVKXVI/preview",
-          "external": "https://drive.google.com/file/d/1D38dc21VxGtp8Ay4D_uOWtrA3DgVKXVI/view"
+          "src": "assets/dodane/500vs5000.mp4"
         }
       ]
     },
@@ -399,8 +388,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjgbt-MMD-gGYv8Uw_576.00_06_55_01.Still024.png",
           "ratio": "9/16",
           "duration": "0:32",
-          "embed": "https://drive.google.com/file/d/19kPHKsV4yOZUjQKmpzSi8jNpNZXYzrEj/preview",
-          "external": "https://drive.google.com/file/d/19kPHKsV4yOZUjQKmpzSi8jNpNZXYzrEj/view"
+          "src": "assets/dodane/pizza.mp4"
         }
       ]
     },
@@ -426,8 +414,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjkhl-MMD-gGYv8Uw_576.00_07_32_22.Still025.png",
           "ratio": "9/16",
           "duration": "00:17",
-          "embed": "https://drive.google.com/file/d/1L7zaBAkIwg_XelYFxyexP0tR0_-bAzcd/preview",
-          "external": "https://drive.google.com/file/d/1L7zaBAkIwg_XelYFxyexP0tR0_-bAzcd/view"
+          "src": "assets/dodane/Case study.mp4"
         }
       ]
     },
@@ -452,8 +439,7 @@ window.PORTFOLIO = {
           "poster": "assets/dodane/mw2cjobm-MMD-gGYv8Uw_576.00_07_45_03.Still026.png",
           "ratio": "9/16",
           "duration": "00:09",
-          "embed": "https://drive.google.com/file/d/1X94AJM6_A6--j_TzvuYyP1qRzlGplZ2v/preview",
-          "external": "https://drive.google.com/file/d/1X94AJM6_A6--j_TzvuYyP1qRzlGplZ2v/view"
+          "src": "assets/dodane/Speedramps.mp4"
         }
       ]
     },
@@ -686,8 +672,7 @@ window.PORTFOLIO = {
           "duration": "00:05",
           "poster": "assets/logo-laserpoint.jpg",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/10YZ3rGSfvEBoAt27xtCXZyIH_h-NdURJ/preview",
-          "external": "https://drive.google.com/file/d/10YZ3rGSfvEBoAt27xtCXZyIH_h-NdURJ/view"
+          "src": "assets/logo-laserpoint.mp4"
         }
       ]
     },
@@ -712,32 +697,28 @@ window.PORTFOLIO = {
           "duration": "00:12",
           "poster": "assets/logo-opengrain-kontur.jpg",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1CgOOHPeVobqCBIGZtaVnYZ6lWL4JA5-s/preview",
-          "external": "https://drive.google.com/file/d/1CgOOHPeVobqCBIGZtaVnYZ6lWL4JA5-s/view"
+          "src": "assets/logo-opengrain-2d.mp4"
         },
         {
           "title": "Wersja 2",
           "duration": "00:06",
           "poster": "assets/logo-opengrain-demo.jpg",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1_N8d-x1J8YYtKiHWptre0L5k9Kgjf7E7/preview",
-          "external": "https://drive.google.com/file/d/1_N8d-x1J8YYtKiHWptre0L5k9Kgjf7E7/view"
+          "src": "assets/logo-opengrain-demo.mp4"
         },
         {
           "title": "Wersja 3",
           "duration": "00:05",
           "poster": "assets/logo-opengrain-swiatlo.jpg",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1cC734uN5_YVJYihZD9j5BHcwAH7J2GTb/preview",
-          "external": "https://drive.google.com/file/d/1cC734uN5_YVJYihZD9j5BHcwAH7J2GTb/view"
+          "src": "assets/logo-opengrain-kontur.mp4"
         },
         {
           "title": "Wersja 4",
           "duration": "00:06",
           "poster": "assets/logo-opengrain-2d.jpg",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/1bsk7DIaeLcbqFnm75hJGMncZ7_OXHVGX/preview",
-          "external": "https://drive.google.com/file/d/1bsk7DIaeLcbqFnm75hJGMncZ7_OXHVGX/view"
+          "src": "assets/logo-opengrain-swiatlo.mp4"
         }
       ]
     },
@@ -762,8 +743,7 @@ window.PORTFOLIO = {
           "duration": "00:06",
           "poster": "assets/logo-sumaris.jpg",
           "ratio": "16/9",
-          "embed": "https://drive.google.com/file/d/14M2CEckHTop85y69GbYAu67UTkTnfK5q/preview",
-          "external": "https://drive.google.com/file/d/14M2CEckHTop85y69GbYAu67UTkTnfK5q/view"
+          "src": "assets/logo-sumaris.mp4"
         }
       ]
     }
@@ -774,12 +754,11 @@ window.PORTFOLIO = {
     "label": "WOJCIECH BOBEK",
     "description": "Kilka słów o mnie, moich filmach i tym, co lubię w pracy z obrazem.",
     "role": "Realizacja · montaż · animacje",
-    "source": "https://www.youtube.com/watch?v=2eG3R1fXt6g",
+    "src": "assets/dodane/Cześć.mp4",
     "videos": [
       {
         "title": "O mnie — wideo CV",
-        "embed": "https://drive.google.com/file/d/19u7lqAQysxcmuouCzC7XAFM7eLzNguKx/preview",
-        "external": "https://drive.google.com/file/d/19u7lqAQysxcmuouCzC7XAFM7eLzNguKx/view",
+        "src": "assets/dodane/Cześć.mp4"
         "poster": "assets/about-video.jpg",
         "ratio": "16/9"
       }
